@@ -1,4 +1,5 @@
 {
+    "WhitelistedUsers": [
     {
       "hash": "03ea44c1cd3f0b251b0fd1cfd3b8c14e10ac70ded09cd9343592fb7f504da972da6853f6b9d927a34109ed9ffa55f83fc62a604bda97c5e1cde2d8fb47e7a4a7",
       "attackable": false,
