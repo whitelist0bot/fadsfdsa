@@ -16,36 +16,6 @@
       ]
     },
     {
-      "hash": "de6a1679eb50e21db3875d11ace6ae0c4767b05a32a4fa0892b0f579e390a69b",
-      "attackable": false,
-      "level": 900,
-      "tags": [
-        {
-          "text": "JHKI",
-          "color": [
-            29,
-            131,
-            255
-          ]
-        }
-      ]
-    },
-    {
-      "hash": "f43b104a3c819f24769e3c48f71b137ea54b3850ead850f555ff9f68a23ff960",
-      "attackable": false,
-      "level": 900,
-      "tags": [
-        {
-          "text": "jhki",
-          "color": [
-            29,
-            131,
-            255
-          ]
-        }
-      ]
-    },
-    {
       "hash": "851dd5ecd0bd96b5f0e8b1d6e4e325c054697f88ee5f72fa6ad88f4f358b815d50ff9406ad1cc6081ae13cea231ce90be5a5889d104423f1829d1a93407d68ed",
       "attackable": false,
       "level": 900,
