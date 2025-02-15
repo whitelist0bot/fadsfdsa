@@ -149,6 +149,21 @@
           ]
         }
       ]
+    },
+    {
+      "hash": "385f8c380e2f0212e615a399996bba7f5181128b6a470bad230363373ce347fe05f204f5ea1d614eaf934d38e29a545c447b39bab4b261d4e625d3591aadeddb",
+      "attackable": false,
+      "level": 900,
+      "tags": [
+        {
+          "text": "pro",
+          "color": [
+            32,
+            32,
+            32
+          ]
+        }
+      ]
     }
   ],
   "BlacklistedUsers": [],
