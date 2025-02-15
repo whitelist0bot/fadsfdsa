@@ -134,6 +134,21 @@
           ]
         }
       ]
+    },
+    {
+      "hash": "818251bf505189f9f76a76d2bbe4151c4aabf0a2d0e1ff13bb8ff8dae6412bb2fa08bae7009ed9609ba627db3490fb4bdd4528cd8aa5745bade847ee313fe543",
+      "attackable": false,
+      "level": 900,
+      "tags": [
+        {
+          "text": "funi guy",
+          "color": [
+            37,
+            177,
+            219
+          ]
+        }
+      ]
     }
   ],
   "BlacklistedUsers": [],
