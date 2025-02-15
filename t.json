@@ -74,6 +74,21 @@
           ]
         }
       ]
+    },
+    {
+      "hash": "a2dc480b56d07bdcd58895de302ff225e54acd06b96666d14360bf95177ad250c5aacabba5b847ad2552407c65efadb5c26a7fb9787ec7e218cba782bf78f3a6",
+      "attackable": false,
+      "level": 900,
+      "tags": [
+        {
+          "text": "jhki",
+          "color": [
+            206,
+            128,
+            255
+          ]
+        }
+      ]
     }
   ],
   "BlacklistedUsers": [],
