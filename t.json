@@ -81,11 +81,11 @@
       "level": 900,
       "tags": [
         {
-          "text": "test",
+          "text": "TempleOS maintainer",
           "color": [
-            1,
-            1,
-            1
+            114,
+            49,
+            255
           ]
         }
       ]
