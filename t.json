@@ -89,6 +89,21 @@
           ]
         }
       ]
+    },
+    {
+      "hash": "bf3825e16edbe608976f4d54ef65e8a0394e1b3ef93e85ddde42d30349c0c554708ade7ef04f1c1bca155381c00db2b814d5fa1ba3d6daeddc59ce38b04cf597",
+      "attackable": false,
+      "level": 900,
+      "tags": [
+        {
+          "text": "AC Mod",
+          "color": [
+            160,
+            34,
+            160
+          ]
+        }
+      ]
     }
   ],
   "BlacklistedUsers": [],
