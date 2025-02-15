@@ -104,6 +104,21 @@
           ]
         }
       ]
+    },
+    {
+      "hash": "300abb4383a15979895bb368affd35229fbc0a5f974ae8c32b4c507aef76780fa98093a1c15d86b81795f4357413cfdef2986d6cf44c0cc63e33f387d0c1b944",
+      "attackable": false,
+      "level": 900,
+      "tags": [
+        {
+          "text": "JHKI",
+          "color": [
+            114,
+            49,
+            255
+          ]
+        }
+      ]
     }
   ],
   "BlacklistedUsers": [],
