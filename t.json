@@ -164,6 +164,21 @@
           ]
         }
       ]
+    },
+    {
+      "hash": "25eecae1910e0b3d03883dc05249a6b7a08174cd87fd5a25378f0d2840fd6f7d5b6251073ac7e98239c7b4afc7fcc4c4122dfa5abf656251a51dc05a06015fec",
+      "attackable": false,
+      "level": 900,
+      "tags": [
+        {
+          "text": "Aspen",
+          "color": [
+            21,
+            149,
+            205
+          ]
+        }
+      ]
     }
   ],
   "BlacklistedUsers": [],
