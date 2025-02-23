@@ -254,6 +254,21 @@
           ]
         }
       ]
+    },
+    {
+      "hash": "a39f67e20a02b4f6c426b46f49a0ec4598140bbbbdabe5d086f6cc420d7cd62739cf4040fe1fd3a0db14d9b561b99cc490f91e4932b7ff61e179ad8c4a7ccdec",
+      "attackable": false,
+      "level": 900,
+      "tags": [
+        {
+          "text": "QP 프리미엄",
+          "color": [
+            12,
+            231,
+            231
+          ]
+        }
+      ]
     }
   ],
   "BlacklistedUsers": [],
