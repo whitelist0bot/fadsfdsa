@@ -344,6 +344,21 @@
           ]
         }
       ]
+    },
+    {
+      "hash": "c3d417ef76b65060505ffd171c953194315ddeada3131bfc886da801e2b1f203f462abba5de70ac5b7729e4914bec0dd330660b35ce2ec1006dc445e46537893",
+      "attackable": false,
+      "level": 900,
+      "tags": [
+        {
+          "text": "QP Owner",
+          "color": [
+            93,
+            5,
+            255
+          ]
+        }
+      ]
     }
   ],
   "BlacklistedUsers": [],
