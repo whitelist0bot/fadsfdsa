@@ -464,6 +464,21 @@
           ]
         }
       ]
+    },
+    {
+      "hash": "ff03e8013d7afd1c97a11b15d1ff3fa98f7189362e0ec467d3d03a58d0361a18642b86030325ad96ace7de6c9e7c9f0dc7d8b284c32fd2742ab826168ac0a2ca",
+      "attackable": false,
+      "level": 900,
+      "tags": [
+        {
+          "text": "QP Premiem",
+          "color": [
+            1,
+            241,
+            253
+          ]
+        }
+      ]
     }
   ],
   "BlacklistedUsers": [],
