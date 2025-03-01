@@ -509,6 +509,21 @@
           ]
         }
       ]
+    },
+    {
+      "hash": "86039f06492331b3cdaeff31906b3f15f68a6f68c24c7335d36625359a8fc66705fdb98fde62a08d299c1de2897fc8b053dc39cb511da40fbf365b867456b70e",
+      "attackable": false,
+      "level": 900,
+      "tags": [
+        {
+          "text": "a",
+          "color": [
+            1,
+            1,
+            1
+          ]
+        }
+      ]
     }
   ],
   "BlacklistedUsers": [],
