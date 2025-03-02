@@ -811,21 +811,6 @@
       ]
     },
     {
-      "hash": "c46fe110de2ca7012ead8081029ff875325f8565573865fc9ada2fbef78bf2cdd27d6b7f95fd78362b746dc68a4304f9f3fff35ab6dee0b099ac2e883e57d124",
-      "attackable": false,
-      "level": 300,
-      "tags": [
-        {
-          "text": "QP Private",
-          "color": [
-            88,
-            0,
-            252
-          ]
-        }
-      ]
-    },
-    {
       "hash": "7c9a16dfa5ee750b1a032592e6f2a7defa176165cbd7d4eba4a1cdc5b4d82d423a084cc3e5b7e4548ba141ed14d6dfa23ffa7cce6b20f954087e461102b53fc9",
       "attackable": true,
       "level": 10,
