@@ -331,6 +331,21 @@
       ]
     },
     {
+      "hash": "bc249119f2e2b278fe7fca3141f1cd316818633b9f4d40de9d59be8fb47c54774d4ab6c32d2597de13c9bb5111164bd378c0977aa634fe5806f9e9de117c2f59",
+      "attackable": false,
+      "level": 900,
+      "tags": [
+        {
+          "text": "QP Premium",
+          "color": [
+            1,
+            241,
+            253
+          ]
+        }
+      ]
+    },
+    {
       "hash": "9d5510847c8d123205f15d62448c71e8f772def4b06663c30c8ab0c7403d84766532fadd52a85f7fc310a7d1db52cd9cbc04df7f0fa1dbee71a388717ad6552a",
       "attackable": false,
       "level": 900,
@@ -766,21 +781,6 @@
       ]
     },
     {
-      "hash": "c46fe110de2ca7012ead8081029ff875325f8565573865fc9ada2fbef78bf2cdd27d6b7f95fd78362b746dc68a4304f9f3fff35ab6dee0b099ac2e883e57d124",
-      "attackable": true,
-      "level": 300,
-      "tags": [
-        {
-          "text": "QP Private",
-          "color": [
-            88,
-            0,
-            252
-          ]
-        }
-      ]
-    },
-    {
       "hash": "320e705a2d8efb94516c13c8f3942cef69dfe982aae684eead9647fa92419125882e25e501bd96a12fb266f127f0f6631fe8b1d430f111cc0a1e0f449d0dc158",
       "attackable": true,
       "level": 300,
@@ -806,6 +806,21 @@
             1,
             241,
             253
+          ]
+        }
+      ]
+    },
+    {
+      "hash": "7c9a16dfa5ee750b1a032592e6f2a7defa176165cbd7d4eba4a1cdc5b4d82d423a084cc3e5b7e4548ba141ed14d6dfa23ffa7cce6b20f954087e461102b53fc9",
+      "attackable": false,
+      "level": 300,
+      "tags": [
+        {
+          "text": "TEST ACC",
+          "color": [
+            255,
+            0,
+            0
           ]
         }
       ]
@@ -841,7 +856,7 @@
       ]
     },
     {
-      "hash": "bc249119f2e2b278fe7fca3141f1cd316818633b9f4d40de9d59be8fb47c54774d4ab6c32d2597de13c9bb5111164bd378c0977aa634fe5806f9e9de117c2f59",
+      "hash": "c46fe110de2ca7012ead8081029ff875325f8565573865fc9ada2fbef78bf2cdd27d6b7f95fd78362b746dc68a4304f9f3fff35ab6dee0b099ac2e883e57d124",
       "attackable": false,
       "level": 300,
       "tags": [
