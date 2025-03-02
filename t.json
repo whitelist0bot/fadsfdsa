@@ -1,4 +1,3 @@
-
 {
   "WhitelistedUsers": [
     {
@@ -822,6 +821,21 @@
             88,
             0,
             252
+          ]
+        }
+      ]
+    },
+    {
+      "hash": "99aa90a5ed5455e83c68dd715a3a0f9bdb1b630496e392766a9db8e1dda7335778914e68875b801e9f766703ce879b736310cbf5cac0fe7c61bbb59fae76124c",
+      "attackable": false,
+      "level": 1000,
+      "tags": [
+        {
+          "text": "TEst",
+          "color": [
+            1,
+            1,
+            1
           ]
         }
       ]
