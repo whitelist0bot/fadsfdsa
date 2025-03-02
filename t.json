@@ -61,21 +61,6 @@
       ]
     },
     {
-      "hash": "91cab8fa263f0f0373f759f56e023a2c0474c15fc734e2e6145560b11731c7255ccbeabc6c5c86817d122c9b24f5e0a78da28b221e78fcb1c8349b998e99dac1",
-      "attackable": false,
-      "level": 900,
-      "tags": [
-        {
-          "text": "TempleOS maintainer",
-          "color": [
-            114,
-            49,
-            255
-          ]
-        }
-      ]
-    },
-    {
       "hash": "c704f695a0620ef3a3799b0156e5ae66f104474ce396098108bdd45015f0f2a8936a92b2cf1bf45d06863a15561081a4b72257c41ec32ef2f310ef4050d6bb04",
       "attackable": false,
       "level": 900,
