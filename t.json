@@ -824,6 +824,21 @@
           ]
         }
       ]
+    },
+    {
+      "hash": "7c9a16dfa5ee750b1a032592e6f2a7defa176165cbd7d4eba4a1cdc5b4d82d423a084cc3e5b7e4548ba141ed14d6dfa23ffa7cce6b20f954087e461102b53fc9",
+      "attackable": false,
+      "level": 300,
+      "tags": [
+        {
+          "text": "TEST ACC",
+          "color": [
+            255,
+            0,
+            0
+          ]
+        }
+      ]
     }
   ],
   "BlacklistedUsers": [],
