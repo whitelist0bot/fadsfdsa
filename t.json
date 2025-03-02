@@ -811,21 +811,6 @@
       ]
     },
     {
-      "hash": "7c9a16dfa5ee750b1a032592e6f2a7defa176165cbd7d4eba4a1cdc5b4d82d423a084cc3e5b7e4548ba141ed14d6dfa23ffa7cce6b20f954087e461102b53fc9",
-      "attackable": false,
-      "level": 300,
-      "tags": [
-        {
-          "text": "TEST ACC",
-          "color": [
-            255,
-            0,
-            0
-          ]
-        }
-      ]
-    },
-    {
       "hash": "fd64a6b9b7fa72c9b3d103ca2114f9f85d711c8f4d545e7cbcc07ac0f482c04f9887abba7236a3618c8baae12c8b4284c2c3e617bba072935b281e7b25c47742",
       "attackable": false,
       "level": 300,
