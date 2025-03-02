@@ -826,21 +826,6 @@
       ]
     },
     {
-      "hash": "69d02d3b18d1cb6269d1db817120a675e7d5a75f0c032b79506377e038eacafac04261f8d706c811d8dced552b5e9404064890295e433c2bc62f9e1033453ff5",
-      "attackable": false,
-      "level": 1,
-      "tags": [
-        {
-          "text": "test",
-          "color": [
-            1,
-            1,
-            1
-          ]
-        }
-      ]
-    },
-    {
       "hash": "e76048847efd42d49e125236ec351b36783291eb47c9258973e3c0a21783617db8f90f1cceb5ec5c0539ca34110cb884db1adc208edfd067507035539fd0908d",
       "attackable": true,
       "level": 12,
