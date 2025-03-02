@@ -839,6 +839,21 @@
           ]
         }
       ]
+    },
+    {
+      "hash": "e76048847efd42d49e125236ec351b36783291eb47c9258973e3c0a21783617db8f90f1cceb5ec5c0539ca34110cb884db1adc208edfd067507035539fd0908d",
+      "attackable": true,
+      "level": 12,
+      "tags": [
+        {
+          "text": "12",
+          "color": [
+            12,
+            12,
+            12
+          ]
+        }
+      ]
     }
   ],
   "BlacklistedUsers": [],
