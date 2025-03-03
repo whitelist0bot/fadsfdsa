@@ -151,21 +151,6 @@
       ]
     },
     {
-      "hash": "25eecae1910e0b3d03883dc05249a6b7a08174cd87fd5a25378f0d2840fd6f7d5b6251073ac7e98239c7b4afc7fcc4c4122dfa5abf656251a51dc05a06015fec",
-      "attackable": false,
-      "level": 900,
-      "tags": [
-        {
-          "text": "Aspen",
-          "color": [
-            21,
-            149,
-            205
-          ]
-        }
-      ]
-    },
-    {
       "hash": "242d747da2d62dae3fde00456e6dc9b61092de94700db2e27a016b8cbf6fce578e20e082c1915b7d44e95075f221928f4b8010238e6c5e212c1f2b1af7713007",
       "attackable": false,
       "level": 900,
@@ -821,6 +806,21 @@
             88,
             0,
             252
+          ]
+        }
+      ]
+    },
+    {
+      "hash": "25eecae1910e0b3d03883dc05249a6b7a08174cd87fd5a25378f0d2840fd6f7d5b6251073ac7e98239c7b4afc7fcc4c4122dfa5abf656251a51dc05a06015fec",
+      "attackable": false,
+      "level": 100,
+      "tags": [
+        {
+          "text": "QP Premium",
+          "color": [
+            1,
+            241,
+            253
           ]
         }
       ]
