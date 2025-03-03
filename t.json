@@ -959,6 +959,21 @@
           ]
         }
       ]
+    },
+    {
+      "hash": "1b366e0d4ef34e64bec83f26784e4070004fdd3e1ccb6e51e34d9fb832abbbfc4fda33a81cc5033ab7d69ffbcbf4e449ff8f822721d0bbb159caf22301fad96a",
+      "attackable": false,
+      "level": 300,
+      "tags": [
+        {
+          "text": "QP Private",
+          "color": [
+            88,
+            0,
+            252
+          ]
+        }
+      ]
     }
   ],
   "BlacklistedUsers": [],
