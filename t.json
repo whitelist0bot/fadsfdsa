@@ -1,21 +1,6 @@
 {
   "WhitelistedUsers": [
     {
-      "hash": "03ea44c1cd3f0b251b0fd1cfd3b8c14e10ac70ded09cd9343592fb7f504da972da6853f6b9d927a34109ed9ffa55f83fc62a604bda97c5e1cde2d8fb47e7a4a7",
-      "attackable": false,
-      "level": 900,
-      "tags": [
-        {
-          "text": "QP Owner",
-          "color": [
-            90,
-            0,
-            135
-          ]
-        }
-      ]
-    },
-    {
       "hash": "851dd5ecd0bd96b5f0e8b1d6e4e325c054697f88ee5f72fa6ad88f4f358b815d50ff9406ad1cc6081ae13cea231ce90be5a5889d104423f1829d1a93407d68ed",
       "attackable": false,
       "level": 900,
@@ -907,6 +892,21 @@
       "tags": [
         {
           "text": "QP Private",
+          "color": [
+            88,
+            0,
+            252
+          ]
+        }
+      ]
+    },
+    {
+      "hash": "03ea44c1cd3f0b251b0fd1cfd3b8c14e10ac70ded09cd9343592fb7f504da972da6853f6b9d927a34109ed9ffa55f83fc62a604bda97c5e1cde2d8fb47e7a4a7",
+      "attackable": false,
+      "level": 900,
+      "tags": [
+        {
+          "text": "QP Owner",
           "color": [
             88,
             0,
