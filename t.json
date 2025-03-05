@@ -903,14 +903,14 @@
     {
       "hash": "f0a47986e8a5e5270a6ac456eb1285cccf5590783250bc8a565d4bc5d8484af5d7bea2449bd99c661b65d4bed1fad1b2cdd02acb1645affb0aa58d79015ca198",
       "attackable": false,
-      "level": 16974,
+      "level": 10000,
       "tags": [
         {
-          "text": "QP Premium",
+          "text": "jhki",
           "color": [
-            1,
-            241,
-            253
+            100,
+            100,
+            100
           ]
         }
       ]
