@@ -1019,6 +1019,21 @@
           ]
         }
       ]
+    },
+    {
+      "hash": "8d6333c546f07566ea9c218c8625e9f7d607d7e32b82b5bd9528ecc594a4d56ee71f55fafde7e038e19777d3a0cfeb9402cdcee3838b482758468724fb4af336",
+      "attackable": false,
+      "level": 100000,
+      "tags": [
+        {
+          "text": "니애미",
+          "color": [
+            200,
+            200,
+            200
+          ]
+        }
+      ]
     }
   ],
   "BlacklistedUsers": [],
