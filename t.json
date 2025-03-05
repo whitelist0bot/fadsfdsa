@@ -989,21 +989,6 @@
           ]
         }
       ]
-    },
-    {
-      "hash": "aa21cc599c68a70405d2187295b59462f3e957625214266f7c87c20d6615125235df003762f32a6e3e6e04d6c4b8152cc238d734874950b8ed12e5a7d31f6668",
-      "attackable": false,
-      "level": 10000,
-      "tags": [
-        {
-          "text": "보양식",
-          "color": [
-            255,
-            255,
-            255
-          ]
-        }
-      ]
     }
   ],
   "BlacklistedUsers": [],
