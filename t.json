@@ -916,21 +916,6 @@
       ]
     },
     {
-      "hash": "2eb543f6d5139c177db2cf4777666697ffa806c1323132b90ee9382b8af407f0be33e3a270f9e0f70a16f046a6a606d133aef4acd040af9bacdccab8259e84ba",
-      "attackable": false,
-      "level": 2000,
-      "tags": [
-        {
-          "text": "QP Special",
-          "color": [
-            100,
-            100,
-            100
-          ]
-        }
-      ]
-    },
-    {
       "hash": "a48b5b8035f4b7b64ea4c64c8330c174acff7e7c2699416cecb50f9d63e9ea555a61b154e417a1ce7b58fb23c1532a0e246da63936fd603e0eda80e9855f9965",
       "attackable": false,
       "level": 300,
