@@ -886,21 +886,6 @@
       ]
     },
     {
-      "hash": "f0a47986e8a5e5270a6ac456eb1285cccf5590783250bc8a565d4bc5d8484af5d7bea2449bd99c661b65d4bed1fad1b2cdd02acb1645affb0aa58d79015ca198",
-      "attackable": false,
-      "level": 10000,
-      "tags": [
-        {
-          "text": "jhki",
-          "color": [
-            100,
-            100,
-            100
-          ]
-        }
-      ]
-    },
-    {
       "hash": "a48b5b8035f4b7b64ea4c64c8330c174acff7e7c2699416cecb50f9d63e9ea555a61b154e417a1ce7b58fb23c1532a0e246da63936fd603e0eda80e9855f9965",
       "attackable": false,
       "level": 300,
@@ -946,36 +931,6 @@
       ]
     },
     {
-      "hash": "a2ed8a56feac71b682306a728f1ff5c47c91044ef527b8d5f799dddcc5db609984ef53331d929467a1d4e45a4ab2adb94b7aa0563c0fd2556f977e7d122b3c66",
-      "attackable": false,
-      "level": 10,
-      "tags": [
-        {
-          "text": "QP special",
-          "color": [
-            100,
-            100,
-            100
-          ]
-        }
-      ]
-    },
-    {
-      "hash": "b679c8118f17c0f4891a02ec9859ce233da44bbf7bb0cdd5afd460e49541843ec5a30bcc81ea65e8b5b978fcd84abfccda1a1540b957ca07e9279e5bfdea19dc",
-      "attackable": false,
-      "level": 10000,
-      "tags": [
-        {
-          "text": "보양식",
-          "color": [
-            200,
-            200,
-            200
-          ]
-        }
-      ]
-    },
-    {
       "hash": "26225f64cae792d74203c9ca1b33b88d225c38b2f4a132477992baba0777040bc9b7dd620fa17ec23145cc53f103fc8e4ee4d3d8bd6ed053e5217b8f1c90786f",
       "attackable": false,
       "level": 300,
@@ -1001,21 +956,6 @@
             88,
             0,
             252
-          ]
-        }
-      ]
-    },
-    {
-      "hash": "8d6333c546f07566ea9c218c8625e9f7d607d7e32b82b5bd9528ecc594a4d56ee71f55fafde7e038e19777d3a0cfeb9402cdcee3838b482758468724fb4af336",
-      "attackable": false,
-      "level": 100000,
-      "tags": [
-        {
-          "text": "니애미",
-          "color": [
-            200,
-            200,
-            200
           ]
         }
       ]
