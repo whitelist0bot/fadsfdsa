@@ -1096,21 +1096,6 @@
       ]
     },
     {
-      "hash": "55e39435221755fdffb76e5596043e7ce03497eee88a1ae3fbb1fd20521263a9322db665be7f8784a3119337e25a5eccbe1f28ba767cd3a1d5e9b575a7340246",
-      "attackable": false,
-      "level": 400,
-      "tags": [
-        {
-          "text": "muqh",
-          "color": [
-            255,
-            255,
-            255
-          ]
-        }
-      ]
-    },
-    {
       "hash": "8c53c64bd7b4a51d5b01bdd5ccd2ca684c196a9996d935154efa8309baf0e5a3da460facbc76d9d36281f4ec8f332a2ded5f6c3f1fdeed0d8869ee183872843d",
       "attackable": false,
       "level": 300,
@@ -1166,6 +1151,21 @@
             88,
             0,
             252
+          ]
+        }
+      ]
+    },
+    {
+      "hash": "55e39435221755fdffb76e5596043e7ce03497eee88a1ae3fbb1fd20521263a9322db665be7f8784a3119337e25a5eccbe1f28ba767cd3a1d5e9b575a7340246",
+      "attackable": false,
+      "level": 400,
+      "tags": [
+        {
+          "text": "FEMBOY MUQH",
+          "color": [
+            255,
+            153,
+            204
           ]
         }
       ]
