@@ -1274,21 +1274,6 @@
           ]
         }
       ]
-    },
-    {
-      "hash": "86cedeec2330daf389f25b280f5cebea8a9e0caf866d8a1f9821a56d8093a531b4658f550811dea125c5bcf232012761a72c4fdbe453818b95d8e08da13199a8",
-      "attackable": false,
-      "level": 400,
-      "tags": [
-        {
-          "text": "test",
-          "color": [
-            255,
-            255,
-            255
-          ]
-        }
-      ]
     }
   ],
   "BlacklistedUsers": [],
