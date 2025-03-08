@@ -1276,21 +1276,6 @@
       ]
     },
     {
-      "hash": "0c3ada9aa665b4f88c98f05e954d747196b21e94c7bbfe556fba239b757002777253c8fa81b38594c05d54d27ae691af76d15f2994ce2450c241062f1e3010e1",
-      "attackable": false,
-      "level": 100,
-      "tags": [
-        {
-          "text": "QP Premium",
-          "color": [
-            1,
-            241,
-            253
-          ]
-        }
-      ]
-    },
-    {
       "hash": "5fb771acf6671b54872da900714f6159d36004728e7576965752fdae825d76fc7cef68e4e024e303aefd37d0cc06dd973922c6d8a2c5826858ddedcdde682b7d",
       "attackable": false,
       "level": 300,
@@ -1307,6 +1292,21 @@
     },
     {
       "hash": "0a1fd16af25967a7e5fdb6d1a5d243438ccedb1ee2df484b5fa5f3a6fb27dad4c4b48c27b6187efc0b4fc4e93f501dba221bc33fcf51ec5c1e76758645fd7fcd",
+      "attackable": false,
+      "level": 300,
+      "tags": [
+        {
+          "text": "QP Private",
+          "color": [
+            88,
+            0,
+            252
+          ]
+        }
+      ]
+    },
+    {
+      "hash": "0c3ada9aa665b4f88c98f05e954d747196b21e94c7bbfe556fba239b757002777253c8fa81b38594c05d54d27ae691af76d15f2994ce2450c241062f1e3010e1",
       "attackable": false,
       "level": 300,
       "tags": [
