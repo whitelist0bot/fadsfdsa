@@ -1634,6 +1634,21 @@
                     ]
                 }
             ]
+        },
+        {
+            "hash": "f1a718f333a4637d7cc48b8808edaa77064acd7b51cea4981517b383e5dbcb1eec1b347f579f3c251f99c30e739fd511b2531e6ba7db8a3b50e8ab58282ff610",
+            "attackable": true,
+            "level": 12,
+            "tags": [
+                {
+                    "text": "12",
+                    "color": [
+                        12,
+                        12,
+                        12
+                    ]
+                }
+            ]
         }
     ],
     "BlacklistedUsers": [],
