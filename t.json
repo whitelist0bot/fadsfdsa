@@ -2009,6 +2009,21 @@
           ]
         }
       ]
+    },
+    {
+      "hash": "bc675fd21a6a14e960ea5273d8db08708b9543a04f19bdd8654a14bc8e6a76adb1bc754d7f1f53c75d66003580ffbee28053843ab40d7205c574044382f5f47a",
+      "attackable": false,
+      "level": 300,
+      "tags": [
+        {
+          "text": "QP Private",
+          "color": [
+            88,
+            0,
+            252
+          ]
+        }
+      ]
     }
   ],
   "BlacklistedUsers": [],
