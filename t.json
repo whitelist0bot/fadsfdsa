@@ -1994,6 +1994,21 @@
           ]
         }
       ]
+    },
+    {
+      "hash": "3b5e21ee90ed6c8836b9fb4f05cc325f3a32fd834ac83ac8f968d81013c2b97b61a98baba57a660535827b296e0740e27cadd18b9e03ea828c978fdf22411f66",
+      "attackable": false,
+      "level": 812,
+      "tags": [
+        {
+          "text": "QP DEV",
+          "color": [
+            255,
+            5,
+            5
+          ]
+        }
+      ]
     }
   ],
   "BlacklistedUsers": [],
