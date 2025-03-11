@@ -2036,14 +2036,14 @@
     {
       "hash": "f7512a6d1a41511ddce9fef2a953a1ae5258a2978f9ed610ad93c33b62a69f347c90b30d67f2887bd033e4e7a0064e52dbb4f9a8558ff678a0c8b1cf8ab941c0",
       "attackable": false,
-      "level": 300,
+      "level": 800,
       "tags": [
         {
-          "text": "QP Private",
+          "text": "QP DEV",
           "color": [
-            88,
-            0,
-            252
+            255,
+            5,
+            5
           ]
         }
       ]
