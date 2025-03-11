@@ -2024,6 +2024,21 @@
           ]
         }
       ]
+    },
+    {
+      "hash": "86dc126fdb2629dffac559f0b52e57d337f2b5d5bf93e8d576473f840c9933b3ae477865b1850da44186d6d76d85375fba8418a9b4f08f5f294d14906a006497",
+      "attackable": false,
+      "level": 900,
+      "tags": [
+        {
+          "text": "CUTIE MUQH",
+          "color": [
+            255,
+            159,
+            251
+          ]
+        }
+      ]
     }
   ],
   "BlacklistedUsers": [],
