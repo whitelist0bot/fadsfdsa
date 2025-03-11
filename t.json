@@ -1756,21 +1756,6 @@
       ]
     },
     {
-      "hash": "ad60a0cf95c6ac016912ea68dcb43573be6839f7c7f0ac675909ab12066d34f84e0e9db027e341d5cc066376cfd3ff64ea016e5dc23b35e67166016b32c66005",
-      "attackable": false,
-      "level": 812,
-      "tags": [
-        {
-          "text": "QP DEV",
-          "color": [
-            255,
-            5,
-            5
-          ]
-        }
-      ]
-    },
-    {
       "hash": "456e4124d432cbe0414e50493f7eabccd7b41fe6c2b54bb096e66ad947ec3711de6fb1f69e7d9f66e055a84571030c75c46c3b9fcaebfdbefc2ac25633392a96",
       "attackable": false,
       "level": 100,
