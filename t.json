@@ -1254,21 +1254,6 @@
       ]
     },
     {
-      "hash": "f8ebb0cd3773d546ac0d81bfade5887421c63e3adbea4c8bb1b07c337f3a2f8628fb8acc34083cd931ddd9192cdd0cdc2ccd6f424785d5a17753ad48016adf7e",
-      "attackable": false,
-      "level": 300,
-      "tags": [
-        {
-          "text": "QP Private",
-          "color": [
-            88,
-            0,
-            252
-          ]
-        }
-      ]
-    },
-    {
       "hash": "6778fea8860e8463c5272a39cd5beb245a1e1dadd7ae8e720af713b51715aa2e1a101b91017693d75755d682867f1391b24c20c3ffc094d5258fd808ddc0289a",
       "attackable": false,
       "level": 300,
@@ -2052,6 +2037,21 @@
       "hash": "60ea1dc137c8aabd11ab246b76179d3d6c2350744d1872a7c7c01d5070010dfbc9434b628dbfe99d61c7908d7d0c0895d33f729a975d50653b1b33ab20ca3b3b",
       "attackable": false,
       "level": 900,
+      "tags": [
+        {
+          "text": "QP Owner",
+          "color": [
+            255,
+            255,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "hash": "f8ebb0cd3773d546ac0d81bfade5887421c63e3adbea4c8bb1b07c337f3a2f8628fb8acc34083cd931ddd9192cdd0cdc2ccd6f424785d5a17753ad48016adf7e",
+      "attackable": false,
+      "level": 999,
       "tags": [
         {
           "text": "QP Owner",
