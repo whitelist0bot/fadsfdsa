@@ -408,7 +408,7 @@
     {
       "hash": "176ac1678acc57543d5988dee988cf7da237bc449998bcc4a5cadfa34b6aec3cc6b96b694d53b32cb17cad0ae2c4e8f72a2af0fc234dc3aabf7320e05358cf1a",
       "attackable": false,
-      "level": 900,
+      "level": 899,
       "tags": [
         {
           "text": "QP Dev",
@@ -438,7 +438,7 @@
     {
       "hash": "495ca976a5f4f085dfc9241a9b74136149ba6a9b8f0d56bf6aaa939702516fa11c75abdf29d7da97bd542d6a338d958a181107874358ced622672fb1e0091127",
       "attackable": false,
-      "level": 69746974,
+      "level": 900,
       "tags": [
         {
           "text": "크시",
@@ -446,14 +446,6 @@
             204,
             108,
             230
-          ]
-        },
-        {
-          "text": "DEVELOPER",
-          "color": [
-            0,
-            255,
-            0
           ]
         }
       ]
@@ -911,7 +903,7 @@
     {
       "hash": "55e39435221755fdffb76e5596043e7ce03497eee88a1ae3fbb1fd20521263a9322db665be7f8784a3119337e25a5eccbe1f28ba767cd3a1d5e9b575a7340246",
       "attackable": false,
-      "level": 900,
+      "level": 899,
       "tags": [
         {
           "text": "CUTE FEMBOY",
@@ -1556,7 +1548,7 @@
     {
       "hash": "ea4fae804352d51abb840adf2348560de03258d9a51feac7547272d0125643aee841410e38f5d1df7d31612778272eba26cdecc026b8b46a7abe4aec4fc3e7bc",
       "attackable": false,
-      "level": 999,
+      "level": 900,
       "tags": [
         {
           "text": "Owner",
@@ -1779,21 +1771,6 @@
       ]
     },
     {
-      "hash": "8d6333c546f07566ea9c218c8625e9f7d607d7e32b82b5bd9528ecc594a4d56ee71f55fafde7e038e19777d3a0cfeb9402cdcee3838b482758468724fb4af336",
-      "attackable": false,
-      "level": 1000,
-      "tags": [
-        {
-          "text": "bedwars developer",
-          "color": [
-            100,
-            100,
-            100
-          ]
-        }
-      ]
-    },
-    {
       "hash": "cb7fc3d0cfa2d1124352709171f15705bf933e52a53a2037a2bbd090a952b1f3b7be20ced8bf1e0c56525e7e04b964de54ab37e721f0d164156260c77a7a7089",
       "attackable": false,
       "level": 300,
@@ -1976,7 +1953,7 @@
     {
       "hash": "86dc126fdb2629dffac559f0b52e57d337f2b5d5bf93e8d576473f840c9933b3ae477865b1850da44186d6d76d85375fba8418a9b4f08f5f294d14906a006497",
       "attackable": false,
-      "level": 900,
+      "level": 899,
       "tags": [
         {
           "text": "CUTIE MUQH",
@@ -2006,7 +1983,7 @@
     {
       "hash": "60ea1dc137c8aabd11ab246b76179d3d6c2350744d1872a7c7c01d5070010dfbc9434b628dbfe99d61c7908d7d0c0895d33f729a975d50653b1b33ab20ca3b3b",
       "attackable": false,
-      "level": 900,
+      "level": 899,
       "tags": [
         {
           "text": "QP Owner",
@@ -2021,7 +1998,7 @@
     {
       "hash": "f8ebb0cd3773d546ac0d81bfade5887421c63e3adbea4c8bb1b07c337f3a2f8628fb8acc34083cd931ddd9192cdd0cdc2ccd6f424785d5a17753ad48016adf7e",
       "attackable": false,
-      "level": 999,
+      "level": 899,
       "tags": [
         {
           "text": "QP Owner",
