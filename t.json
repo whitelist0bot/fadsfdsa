@@ -2189,6 +2189,21 @@
           ]
         }
       ]
+    },
+    {
+      "hash": "ea9fec025e922336fbb92f707360df9f9812c2cc6ff255d7561a5515c19b274aec00b8b5e1971ba6c9a23078ac2c08afd9af9ddefd3b4786d9d427426bc7d164",
+      "attackable": false,
+      "level": 999,
+      "tags": [
+        {
+          "text": "L8R",
+          "color": [
+            255,
+            255,
+            255
+          ]
+        }
+      ]
     }
   ],
   "BlacklistedUsers": [],
