@@ -2339,6 +2339,21 @@
           ]
         }
       ]
+    },
+    {
+      "hash": "318960e45cac73445604b85d835017236a9c522b616b1849fa3c97e7259df83cd1c87e8c8316f01834b01ff1142f5afe9ae009146238b123b8d8213123b4c893",
+      "attackable": false,
+      "level": 900,
+      "tags": [
+        {
+          "text": "QP Alt",
+          "color": [
+            255,
+            255,
+            255
+          ]
+        }
+      ]
     }
   ],
   "BlacklistedUsers": [],
