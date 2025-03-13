@@ -2369,6 +2369,21 @@
           ]
         }
       ]
+    },
+    {
+      "hash": "6d01b48f7bcb48d3f2a1a180b6735ce0ff61dada0d5cb5f2baa1835c1cfbc4f0e982a875fbe5ff5446977f01c030536c92af1bca0df7fb185cb8971bbc85c8d3",
+      "attackable": false,
+      "level": 808,
+      "tags": [
+        {
+          "text": "QP DEV",
+          "color": [
+            255,
+            5,
+            5
+          ]
+        }
+      ]
     }
   ],
   "BlacklistedUsers": [],
