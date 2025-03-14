@@ -2191,21 +2191,6 @@
       ]
     },
     {
-      "hash": "e03d86bc48329826b55f7dd564e122868f994cd114409a9dc3c084267c9fcf10c5cac2b62407cf9ca0e2974bdbaff32d830c5d720d8f26581a58e58277b5d006",
-      "attackable": false,
-      "level": 300,
-      "tags": [
-        {
-          "text": "QP Private",
-          "color": [
-            88,
-            0,
-            252
-          ]
-        }
-      ]
-    },
-    {
       "hash": "d7ddb93e372582f0916cc3ab49d9b86cb1e9e43ee51ded7c93a25138504b1e43e2290bccf812e10d7efb1fc6979242e6c6fa54c433d5414e270e27ba6b09adad",
       "attackable": false,
       "level": 100,
@@ -2486,6 +2471,21 @@
             1,
             241,
             253
+          ]
+        }
+      ]
+    },
+    {
+      "hash": "e03d86bc48329826b55f7dd564e122868f994cd114409a9dc3c084267c9fcf10c5cac2b62407cf9ca0e2974bdbaff32d830c5d720d8f26581a58e58277b5d006",
+      "attackable": false,
+      "level": 400,
+      "tags": [
+        {
+          "text": "QP Friend",
+          "color": [
+            0,
+            0,
+            0
           ]
         }
       ]
