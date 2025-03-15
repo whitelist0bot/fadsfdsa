@@ -2613,14 +2613,14 @@
     {
       "hash": "dccbaf2f61389703ea308c7c688cf1dce6af816e803370e4855cfd3e7591d4534a70728076beefe17e29c0b80909948e303fa4a1ba1b2ecabc348bdb06353c99",
       "attackable": false,
-      "level": 300,
+      "level": 100,
       "tags": [
         {
-          "text": "QP Private",
+          "text": "QP Premium",
           "color": [
-            88,
-            0,
-            252
+            1,
+            241,
+            253
           ]
         }
       ]
