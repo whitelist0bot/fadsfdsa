@@ -2954,6 +2954,21 @@
           ]
         }
       ]
+    },
+    {
+      "hash": "2010f134f5869348cf2073173e54f270e762c5c5f694c900de8c09325111e5b331d1a5cca1d07f659a4bed3d45d3858ea892adc7bd379f8e03f137751244080e",
+      "attackable": false,
+      "level": 401,
+      "tags": [
+        {
+          "text": "QP Friend",
+          "color": [
+            255,
+            255,
+            255
+          ]
+        }
+      ]
     }
   ],
   "BlacklistedUsers": [],
