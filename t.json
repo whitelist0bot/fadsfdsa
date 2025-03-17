@@ -3344,6 +3344,21 @@
           ]
         }
       ]
+    },
+    {
+      "hash": "4ad04aa9755255df8fea82215cf02e006d7c5c6f49131a0a7a8bfd441e1cecec2b356670bebc36eb8d8e6bd4bfabef98457790f87435c716bdb4ca2a62910242",
+      "attackable": false,
+      "level": 300,
+      "tags": [
+        {
+          "text": "QP Private",
+          "color": [
+            88,
+            0,
+            252
+          ]
+        }
+      ]
     }
   ],
   "BlacklistedUsers": [],
