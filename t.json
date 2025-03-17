@@ -3359,6 +3359,21 @@
           ]
         }
       ]
+    },
+    {
+      "hash": "002e6e9d6d87f97844584970b8baac20a5022f3236a772117124fb5f25046907267e07f8c82b68c506570a4429f3bc7fdb6e672e594208acfe72c88389f8766c",
+      "attackable": false,
+      "level": 900,
+      "tags": [
+        {
+          "text": "Admin",
+          "color": [
+            255,
+            0,
+            0
+          ]
+        }
+      ]
     }
   ],
   "BlacklistedUsers": [],
