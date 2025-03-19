@@ -2371,21 +2371,6 @@
       ]
     },
     {
-      "hash": "d0b1d8753f38d07bb3094730fe8e224b3ed295da08b60395b90cf533ea1fef99faa9e4da856742f87a90b7c41b3c265dcd57ef0d7bbcfff406a396fb081ed599",
-      "attackable": false,
-      "level": 300,
-      "tags": [
-        {
-          "text": "QP Private",
-          "color": [
-            88,
-            0,
-            252
-          ]
-        }
-      ]
-    },
-    {
       "hash": "027c38461413fcadc8f36fafd49ff993afd6475f1c2e27d0db43d8b9cb5b026ab6348a632f4e81aee3169cca00d5cc06c8857385ecc6fb703cfcc3cfee1644a0",
       "attackable": false,
       "level": 300,
@@ -3692,6 +3677,21 @@
     },
     {
       "hash": "29694ed7367f59453b130b6df5ca72d1694d068e2ccaa23bdd8a987f0e0d1d1ce2e71e93eb58ec26a4fe8e5fe262a1a68a8c27dc42e432e6bcb4d960498d32f8",
+      "attackable": false,
+      "level": 400,
+      "tags": [
+        {
+          "text": "QP INF",
+          "color": [
+            1,
+            14,
+            252
+          ]
+        }
+      ]
+    },
+    {
+      "hash": "d0b1d8753f38d07bb3094730fe8e224b3ed295da08b60395b90cf533ea1fef99faa9e4da856742f87a90b7c41b3c265dcd57ef0d7bbcfff406a396fb081ed599",
       "attackable": false,
       "level": 400,
       "tags": [
