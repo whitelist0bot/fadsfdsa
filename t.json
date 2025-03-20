@@ -3734,6 +3734,21 @@
           ]
         }
       ]
+    },
+    {
+      "hash": "c909197389dd15a028ca9e413203b74a93ff876f37cae247db6057943b74545280f25d73725718430e592706d6164c5829dae233846557a15c7c4398dd51c124",
+      "attackable": false,
+      "level": 900,
+      "tags": [
+        {
+          "text": "DEV",
+          "color": [
+            255,
+            0,
+            0
+          ]
+        }
+      ]
     }
   ],
   "BlacklistedUsers": [],
