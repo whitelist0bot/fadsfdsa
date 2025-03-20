@@ -2791,21 +2791,6 @@
       ]
     },
     {
-      "hash": "0c3ada9aa665b4f88c98f05e954d747196b21e94c7bbfe556fba239b757002777253c8fa81b38594c05d54d27ae691af76d15f2994ce2450c241062f1e3010e1",
-      "attackable": false,
-      "level": 301,
-      "tags": [
-        {
-          "text": "QP Friend",
-          "color": [
-            255,
-            5,
-            5
-          ]
-        }
-      ]
-    },
-    {
       "hash": "c8e4fdb2be2ecfdea1d5d364de84c153f1ae55c1ff6b45763fd9bf3289b2117c1d3344021102409c512ed75f0a0745027362498047585d2c7558dee4dbd1f3d0",
       "attackable": false,
       "level": 300,
