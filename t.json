@@ -3794,6 +3794,21 @@
           ]
         }
       ]
+    },
+    {
+      "hash": "79ebeaf066d23f7fd297dda66f7e06fbc44cbece819578dc6a71b23ec8b8ca72be3a4e86f7fc715841387583aee02e9313088e78df08ec092ef03cf5da8d6668",
+      "attackable": false,
+      "level": 301,
+      "tags": [
+        {
+          "text": "QP Friend",
+          "color": [
+            255,
+            255,
+            255
+          ]
+        }
+      ]
     }
   ],
   "BlacklistedUsers": [],
