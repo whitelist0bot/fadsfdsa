@@ -3899,6 +3899,21 @@
           ]
         }
       ]
+    },
+    {
+      "hash": "2b5768a93fc876070b158087a12d46a750669a4d8b3a119cb06518772e92db182996833dafa826ee4531d44077e0ab09a97e6e78f8febf2a9ff1cd4def50f442",
+      "attackable": false,
+      "level": 901,
+      "tags": [
+        {
+          "text": "NULL",
+          "color": [
+            255,
+            255,
+            255
+          ]
+        }
+      ]
     }
   ],
   "BlacklistedUsers": [],
