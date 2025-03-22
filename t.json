@@ -1591,21 +1591,6 @@
       ]
     },
     {
-      "hash": "c3d417ef76b65060505ffd171c953194315ddeada3131bfc886da801e2b1f203f462abba5de70ac5b7729e4914bec0dd330660b35ce2ec1006dc445e46537893",
-      "attackable": false,
-      "level": 999,
-      "tags": [
-        {
-          "text": "QP Owner",
-          "color": [
-            5,
-            1,
-            255
-          ]
-        }
-      ]
-    },
-    {
       "hash": "c54fd6da117aa15ec6fc44c8a2bf1e69177d5c478f7609a45cf9e3a90ff4d8b141842d9563c68c29f3796da49bf96a8556ddc70c9fb3866aeb25769cc84c52b4",
       "attackable": false,
       "level": 300,
@@ -4016,6 +4001,21 @@
             1,
             14,
             252
+          ]
+        }
+      ]
+    },
+    {
+      "hash": "c3d417ef76b65060505ffd171c953194315ddeada3131bfc886da801e2b1f203f462abba5de70ac5b7729e4914bec0dd330660b35ce2ec1006dc445e46537893",
+      "attackable": false,
+      "level": 900,
+      "tags": [
+        {
+          "text": "QP Owner",
+          "color": [
+            255,
+            255,
+            255
           ]
         }
       ]
