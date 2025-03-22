@@ -3451,21 +3451,6 @@
       ]
     },
     {
-      "hash": "6042a64ebd7fdb3f6905c0485cc049c60e74c1ddd924fa2a171f3e3d4b26a7a52c51f89b015ff6294073451365aa537ce187b8d4b6766d1000a1e471e67b7cb0",
-      "attackable": false,
-      "level": 900,
-      "tags": [
-        {
-          "text": "JHKI",
-          "color": [
-            255,
-            255,
-            255
-          ]
-        }
-      ]
-    },
-    {
       "hash": "83768958444c00909f6c00ab65d60841fbdc5888790b6a05431288f3f673ed2d9e6dbc4323277956f901bb9b6c123ca965d4b6a5569f7d5178148e764f78d942",
       "attackable": false,
       "level": 100,
@@ -3926,6 +3911,21 @@
             1,
             14,
             252
+          ]
+        }
+      ]
+    },
+    {
+      "hash": "6042a64ebd7fdb3f6905c0485cc049c60e74c1ddd924fa2a171f3e3d4b26a7a52c51f89b015ff6294073451365aa537ce187b8d4b6766d1000a1e471e67b7cb0",
+      "attackable": false,
+      "level": 900,
+      "tags": [
+        {
+          "text": "BEDWARS IS TRASH GAME",
+          "color": [
+            255,
+            0,
+            0
           ]
         }
       ]
