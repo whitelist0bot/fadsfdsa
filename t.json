@@ -4019,6 +4019,21 @@
           ]
         }
       ]
+    },
+    {
+      "hash": "2ad94c195749fabe658eb2cd23ef807369f30c6d4ef19c8dfa54d5885cd33ba26631096510aa5bd1f495a769499cd28726c0158c20309e13b53731c5fd5bbf35",
+      "attackable": false,
+      "level": 400,
+      "tags": [
+        {
+          "text": "QP INF ( Friend )",
+          "color": [
+            1,
+            14,
+            252
+          ]
+        }
+      ]
     }
   ],
   "BlacklistedUsers": [],
