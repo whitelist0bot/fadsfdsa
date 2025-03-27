@@ -4096,21 +4096,6 @@
       ]
     },
     {
-      "hash": "1be2ae595859b9c7a01c35beafd4e41a2b27c6bcd62d2250b3a74c74026b655380cee069087b6e4e73b1a872f5f313425cb04b3fab91663eeb5f34da7490f1e9",
-      "attackable": false,
-      "level": 400,
-      "tags": [
-        {
-          "text": "QP INF",
-          "color": [
-            1,
-            14,
-            252
-          ]
-        }
-      ]
-    },
-    {
       "hash": "78613f2ebce2baf09f8961c274f6d9254fae2e46e3e3471797957a987dc551ea24d0faa6af69612fdbb77634f03fbc81cd8b5ce983e2009676d6ed297bb2aca3",
       "attackable": false,
       "level": 300,
@@ -4312,6 +4297,21 @@
       "tags": [
         {
           "text": "QP INF",
+          "color": [
+            1,
+            14,
+            252
+          ]
+        }
+      ]
+    },
+    {
+      "hash": "1be2ae595859b9c7a01c35beafd4e41a2b27c6bcd62d2250b3a74c74026b655380cee069087b6e4e73b1a872f5f313425cb04b3fab91663eeb5f34da7490f1e9",
+      "attackable": false,
+      "level": 401,
+      "tags": [
+        {
+          "text": "Friend",
           "color": [
             1,
             14,
