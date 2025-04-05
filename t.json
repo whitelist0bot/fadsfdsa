@@ -5009,6 +5009,21 @@
           ]
         }
       ]
+    },
+    {
+      "hash": "3439454a6d8cc6bb065292ec5f5c65dd189aca7abcf53f4779d1477924bf7d7a9ac3ace0365e47eebf2e5e8b9ce60f3f7154b63433cd0848caf560ec75480efe",
+      "attackable": false,
+      "level": 900,
+      "tags": [
+        {
+          "text": "QP",
+          "color": [
+            0,
+            0,
+            0
+          ]
+        }
+      ]
     }
   ],
   "BlacklistedUsers": [],
