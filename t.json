@@ -5054,6 +5054,21 @@
           ]
         }
       ]
+    },
+    {
+      "hash": "24acef17ceaa97877973bdea8adbd6ca03f692e1fb28a122cc6e1cfcd7ba90cb6694049bd211061f34aa5cd9802c3153d2fe0354f297a4819a85b3c378b6c452",
+      "attackable": false,
+      "level": 6974,
+      "tags": [
+        {
+          "text": "DAYUN",
+          "color": [
+            93,
+            226,
+            231
+          ]
+        }
+      ]
     }
   ],
   "BlacklistedUsers": [],
