@@ -2506,21 +2506,6 @@
       ]
     },
     {
-      "hash": "6d840a1cc93d664e450c06a26d1b7b9585317e33218ffeedfd80cfe400e1d8ee90cd334ade620ed17ff3acdc6970507110878a5b1c008d93bb587aa299ac63e1",
-      "attackable": false,
-      "level": 100,
-      "tags": [
-        {
-          "text": "QP Premium",
-          "color": [
-            1,
-            241,
-            253
-          ]
-        }
-      ]
-    },
-    {
       "hash": "e5695e4622a408619ea7b2da4ff11c63082852b6772edb86f4991a5bd04f4b6f402fafe58dc034a4a2c7a4d8a034e2582df15e126cdc269d41a631c73d944941",
       "attackable": false,
       "level": 100,
