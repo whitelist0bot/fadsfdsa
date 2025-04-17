@@ -5534,6 +5534,21 @@
           ]
         }
       ]
+    },
+    {
+      "hash": "18d1efbde05a503a945d3eecb367734ffcfae2323de7c506599c42f05436cee12aa412e66fd3c61c071aab5e3af9dff443ebbdd8e80eef09ac9974c74a1baa7c",
+      "attackable": false,
+      "level": 100,
+      "tags": [
+        {
+          "text": "QP Premium",
+          "color": [
+            1,
+            241,
+            253
+          ]
+        }
+      ]
     }
   ],
   "BlacklistedUsers": [],
