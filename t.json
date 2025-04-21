@@ -4906,21 +4906,6 @@
       ]
     },
     {
-      "hash": "24acef17ceaa97877973bdea8adbd6ca03f692e1fb28a122cc6e1cfcd7ba90cb6694049bd211061f34aa5cd9802c3153d2fe0354f297a4819a85b3c378b6c452",
-      "attackable": false,
-      "level": 6974,
-      "tags": [
-        {
-          "text": "DAYUN",
-          "color": [
-            93,
-            226,
-            231
-          ]
-        }
-      ]
-    },
-    {
       "hash": "eaf70cdec5235236de19fe7f1217abddee608ab078195bb9a5a8b69d35ca78574eba66ca72a1026dd9c3702f78cee81d35aa38b828de715e4a87d8103a58142c",
       "attackable": false,
       "level": 100,
