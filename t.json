@@ -5581,21 +5581,6 @@
       ]
     },
     {
-      "hash": "41b5400bb45d1559b0b37666419eeffdc0a794fa78c83a99271d1ddfcdb707958be3e4083008507e49be74baabeb5be64d886f3599704e1e24d58f0cccee9782",
-      "attackable": false,
-      "level": 6974,
-      "tags": [
-        {
-          "text": "DAYUN][다윤",
-          "color": [
-            254,
-            153,
-            0
-          ]
-        }
-      ]
-    },
-    {
       "hash": "575e6a8297568894113cde4c7cf0ebb9c6873f6cb96b1ebe1a1e1a5e3c45cdcc9ba8bcabf7210d18d8799c5f560ff7040b83d43d347f84fb815426a00c6f12ec",
       "attackable": false,
       "level": 400,
