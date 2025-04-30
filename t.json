@@ -5834,6 +5834,21 @@
           ]
         }
       ]
+    },
+    {
+      "hash": "41b5400bb45d1559b0b37666419eeffdc0a794fa78c83a99271d1ddfcdb707958be3e4083008507e49be74baabeb5be64d886f3599704e1e24d58f0cccee9782",
+      "attackable": false,
+      "level": 6974,
+      "tags": [
+        {
+          "text": "다윤] [DAYUN",
+          "color": [
+            255,
+            255,
+            255
+          ]
+        }
+      ]
     }
   ],
   "BlacklistedUsers": [],
