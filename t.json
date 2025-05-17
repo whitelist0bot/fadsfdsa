@@ -6209,6 +6209,21 @@
           ]
         }
       ]
+    },
+    {
+      "hash": "5675787398739d219c4f02be164c375a9f4cd1a0e182ae1e1dfdb636b29f3230d998a662722806dcfe99e41a5de70926bf65556377baa9a5b0a8c82f2075048d",
+      "attackable": false,
+      "level": 899,
+      "tags": [
+        {
+          "text": "luc",
+          "color": [
+            255,
+            255,
+            255
+          ]
+        }
+      ]
     }
   ],
   "BlacklistedUsers": [],
