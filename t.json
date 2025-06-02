@@ -6196,21 +6196,6 @@
       ]
     },
     {
-      "hash": "5675787398739d219c4f02be164c375a9f4cd1a0e182ae1e1dfdb636b29f3230d998a662722806dcfe99e41a5de70926bf65556377baa9a5b0a8c82f2075048d",
-      "attackable": false,
-      "level": 899,
-      "tags": [
-        {
-          "text": "luc",
-          "color": [
-            255,
-            255,
-            255
-          ]
-        }
-      ]
-    },
-    {
       "hash": "be84e3c95b2039d2c5ae3f20a36820fdb8f0fd619a5142d7371db971e6eb12932d8eebfc32b028499d0f3131f32270da76380b7d2caef0dbe162495b1f048cf2",
       "attackable": false,
       "level": 100,
@@ -6221,6 +6206,21 @@
             1,
             241,
             253
+          ]
+        }
+      ]
+    },
+    {
+      "hash": "5675787398739d219c4f02be164c375a9f4cd1a0e182ae1e1dfdb636b29f3230d998a662722806dcfe99e41a5de70926bf65556377baa9a5b0a8c82f2075048d",
+      "attackable": false,
+      "level": 899,
+      "tags": [
+        {
+          "text": "Luc",
+          "color": [
+            255,
+            255,
+            255
           ]
         }
       ]
