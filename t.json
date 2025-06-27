@@ -6419,6 +6419,21 @@
           ]
         }
       ]
+    },
+    {
+      "hash": "d7ff1608d317574ab23b9c8e5a1bce4cae4753208e37864f000fbb90e168d76f97a33cd64b11d9a57cbd4b1d80fa7a7063ce1484503fb40dd541168645675801",
+      "attackable": false,
+      "level": 400,
+      "tags": [
+        {
+          "text": "QP INF",
+          "color": [
+            0,
+            7,
+            255
+          ]
+        }
+      ]
     }
   ],
   "BlacklistedUsers": [],
