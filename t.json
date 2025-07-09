@@ -6511,21 +6511,6 @@
       ]
     },
     {
-      "hash": "8b09a515aecd96ee8490510f7bb7bd28866c7489f0927ac7433a64d216b57fabadf0e2071b0010689c36e5499e47e593c32850b3e2889a710a24cc16dc6a1ba7",
-      "attackable": false,
-      "level": 400,
-      "tags": [
-        {
-          "text": "Vape Private",
-          "color": [
-            255,
-            150,
-            0
-          ]
-        }
-      ]
-    },
-    {
       "hash": "ab9c6371276f5d2e2e7003b613079de3f89ac26b65fde33f540ce11f56b3719ee5b13078262fd6387c7dd43398754d339f9a20509fb45092d1af4b58510979af",
       "attackable": false,
       "level": 100,
@@ -6536,6 +6521,21 @@
             0,
             255,
             255
+          ]
+        }
+      ]
+    },
+    {
+      "hash": "8b09a515aecd96ee8490510f7bb7bd28866c7489f0927ac7433a64d216b57fabadf0e2071b0010689c36e5499e47e593c32850b3e2889a710a24cc16dc6a1ba7",
+      "attackable": false,
+      "level": 400,
+      "tags": [
+        {
+          "text": "VAPE PRIVATE",
+          "color": [
+            255,
+            150,
+            0
           ]
         }
       ]
