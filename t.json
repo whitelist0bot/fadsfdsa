@@ -6584,6 +6584,21 @@
           ]
         }
       ]
+    },
+    {
+      "hash": "bc3a5c563641006bf5b3cca9dfc93e262cfe2aa73cf93a1c1c4e7d413bec3fbd77de68dc211d7cf82fdfa51e5732226302de89de34479559ba45c486e7890552",
+      "attackable": false,
+      "level": 400,
+      "tags": [
+        {
+          "text": "VAPE PRIVATE",
+          "color": [
+            255,
+            150,
+            0
+          ]
+        }
+      ]
     }
   ],
   "BlacklistedUsers": [],
